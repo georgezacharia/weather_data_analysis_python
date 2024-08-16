@@ -1,4 +1,4 @@
-# weather_data_analysis
+# weather_data_analysis_python
 
 ## Overview
 This project involves the analysis of weather data to uncover insights into various weather conditions, focusing on metrics such as speed, temperature, pressure, humidity, and more. 
